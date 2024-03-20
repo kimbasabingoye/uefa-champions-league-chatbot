@@ -1,0 +1,48 @@
+version: '3'
+
+services:
+  ucl_neo4j_etl:
+    build:
+      context: ./ucl_neo4j_etl
+    env_file:
+      - .env
+    depends_on:
+      - neo4j
+    command: ["sh", "-c", "while ! nc -z neo4j 7474; do sleep 1; done && sh entrypoint.sh"]
+  
+  neo4j:
+    image: neo4j:5.16
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:
+      - $PWD/data:/data
+      - $PWD/plugins:/plugins
+    environment:
+      NEO4J_AUTH: neo4j/Kalimba10$
+      NEO4J_apoc_export_file_enabled: "true"
+      NEO4J_apoc_import_file_enabled: "true"
+      NEO4J_apoc_import_file_use__neo4j__config: "true"
+      NEO4J_PLUGINS: '["apoc-extended"]'
+    container_name: neo4j
+  
+  chatbot_api:
+    build:
+      context: ./chatbot_api
+    env_file:
+      - .env
+    depends_on:
+      - neo4j
+    command: ["sh", "-c", "while ! nc -z neo4j 7474; do sleep 1; done && sh entrypoint.sh"]
+    ports:
+      - 8000:8000
+
+  chatbot_frontend:
+    build:
+      context: ./chatbot_frontend
+    env_file:
+      - .env
+    depends_on:
+      - chatbot_api
+    ports:
+      - "8501:8501"
