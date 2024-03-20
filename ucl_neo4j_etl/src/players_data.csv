@@ -1,0 +1,1378 @@
+name,position,number,age,goals
+Dmytro Riznyk,Goalkeeper,31,25,0
+name,position,number,age,goals
+Stav Lemkin,Defender,3,20,0
+name,position,number,age,goals
+Valeriy Bondar,Defender,5,25,0
+name,position,number,age,goals
+Giorgi Gocholeishvili,Defender,13,23,0
+name,position,number,age,goals
+Irakli Azarov,Defender,16,22,0
+name,position,number,age,goals
+Mykola Matviyenko,Defender,22,27,1
+name,position,number,age,goals
+Yukhym Konoplia,Defender,26,24,0
+name,position,number,age,goals
+Yaroslav Rakitskyy,Defender,44,34,1
+name,position,number,age,goals
+Taras Stepanenko,Midfielder,6,34,0
+name,position,number,age,goals
+Eguinaldo,Midfielder,7,19,1
+name,position,number,age,goals
+Dmytro Kryskiv,Midfielder,8,23,0
+name,position,number,age,goals
+Marian Shved,Midfielder,9,26,0
+name,position,number,age,goals
+Georgiy Sudakov,Midfielder,10,21,1
+name,position,number,age,goals
+Oleksandr Zubkov,Midfielder,11,27,0
+name,position,number,age,goals
+Artem Bondarenko,Midfielder,21,23,0
+name,position,number,age,goals
+Novatus Miroshi,Midfielder,25,21,0
+name,position,number,age,goals
+Yehor Nazaryna,Midfielder,29,26,0
+name,position,number,age,goals
+Newerton,Midfielder,39,18,0
+name,position,number,age,goals
+Olexiy Kashchuk,Midfielder,90,23,0
+name,position,number,age,goals
+Danylo Sikan,Forward,14,22,4
+name,position,number,age,goals
+Kevin Kelsy,Forward,18,19,1
+name,position,number,age,goals
+Frederik Rønnow,Goalkeeper,1,31,0
+name,position,number,age,goals
+Paul Jaeckel,Defender,3,25,0
+name,position,number,age,goals
+Diogo Leite,Defender,4,25,0
+name,position,number,age,goals
+Danilho Doekhi,Defender,5,25,0
+name,position,number,age,goals
+Robin Gosens,Defender,6,29,1
+name,position,number,age,goals
+Josip Juranović,Defender,18,28,0
+name,position,number,age,goals
+Leonardo Bonucci,Defender,23,26,0
+name,position,number,age,goals
+Jérôme Roussillon,Defender,26,31,0
+name,position,number,age,goals
+Christopher Trimmel,Defender,28,37,0
+name,position,number,age,goals
+Robin Knoche,Defender,31,31,0
+name,position,number,age,goals
+Brenden Aaronson,Midfielder,7,23,0
+name,position,number,age,goals
+Rani Khedira,Midfielder,8,30,0
+name,position,number,age,goals
+Janik Haberer,Midfielder,19,29,0
+name,position,number,age,goals
+Aïssa Laïdouni,Midfielder,20,27,0
+name,position,number,age,goals
+Lucas Tousart,Midfielder,29,26,0
+name,position,number,age,goals
+Alex Král,Midfielder,33,25,1
+name,position,number,age,goals
+Aljoscha Kemlein,Midfielder,36,19,0
+name,position,number,age,goals
+Kevin Volland,Forward,10,31,1
+name,position,number,age,goals
+David Fofana,Forward,11,21,1
+name,position,number,age,goals
+Kevin Behrens,Forward,17,33,0
+name,position,number,age,goals
+Sheraldo Becker,Forward,27,29,2
+name,position,number,age,goals
+Anthony Racioppi,Goalkeeper,1,25,0
+name,position,number,age,goals
+David von Ballmoos,Goalkeeper,26,29,0
+name,position,number,age,goals
+Mohamed Ali Camara,Defender,13,26,0
+name,position,number,age,goals
+Saidy Janko,Defender,17,28,0
+name,position,number,age,goals
+Noah Persson,Defender,19,20,0
+name,position,number,age,goals
+Ulisses Garcia,Defender,21,28,0
+name,position,number,age,goals
+Loris Benito,Defender,23,32,0
+name,position,number,age,goals
+Lewin Blum,Defender,27,22,1
+name,position,number,age,goals
+Fabian Lustenberger,Defender,28,35,0
+name,position,number,age,goals
+Filip Ugrinic,Midfielder,7,25,2
+name,position,number,age,goals
+Łukasz Łakomy,Midfielder,8,23,0
+name,position,number,age,goals
+Kastriot Imeri,Midfielder,10,23,0
+name,position,number,age,goals
+Miguel Chaiwa,Midfielder,14,19,0
+name,position,number,age,goals
+Cheikh Niasse,Midfielder,20,24,0
+name,position,number,age,goals
+Donat Rrudhani,Midfielder,22,24,0
+name,position,number,age,goals
+Sandro Lauper,Midfielder,30,27,0
+name,position,number,age,goals
+Darian Males,Midfielder,39,22,0
+name,position,number,age,goals
+Cédric Itten,Midfielder,9,27,2
+name,position,number,age,goals
+Ebrima Colley,Midfielder,11,24,1
+name,position,number,age,goals
+Meschack Elia,Midfielder,15,26,2
+name,position,number,age,goals
+Jean-Pierre Nsame,Midfielder,18,30,0
+name,position,number,age,goals
+Silvère Ganvoula,Midfielder,36,27,0
+name,position,number,age,goals
+Joel Monteiro,Midfielder,77,24,0
+name,position,number,age,goals
+Martin Dúbravka,Goalkeeper,1,35,0
+name,position,number,age,goals
+Nick Pope,Goalkeeper,22,31,0
+name,position,number,age,goals
+Kieran Trippier,Defender,2,33,0
+name,position,number,age,goals
+Sven Botman,Defender,4,24,0
+name,position,number,age,goals
+Fabian Schär,Defender,5,32,1
+name,position,number,age,goals
+Jamaal Lascelles,Defender,6,30,0
+name,position,number,age,goals
+Matt Targett,Defender,13,28,0
+name,position,number,age,goals
+Tino Livramento,Defender,21,21,0
+name,position,number,age,goals
+Dan Burn,Defender,33,31,1
+name,position,number,age,goals
+Sandro Tonali,Midfielder,8,23,0
+name,position,number,age,goals
+Harvey Barnes,Midfielder,15,26,0
+name,position,number,age,goals
+Lewis Hall,Midfielder,20,19,0
+name,position,number,age,goals
+Miguel Almirón,Midfielder,24,30,1
+name,position,number,age,goals
+Sean Longstaff,Midfielder,36,26,1
+name,position,number,age,goals
+Bruno Guimarães,Midfielder,39,26,0
+name,position,number,age,goals
+Joelinton,Forward,7,27,1
+name,position,number,age,goals
+Callum Wilson,Forward,9,32,0
+name,position,number,age,goals
+Anthony Gordon,Forward,10,23,0
+name,position,number,age,goals
+Alexander Isak,Forward,14,24,1
+name,position,number,age,goals
+Jacob Murphy,Forward,23,29,0
+name,position,number,age,goals
+Joe Willock,Forward,28,24,0
+name,position,number,age,goals
+Nico Mantl,Goalkeeper,1,24,0
+name,position,number,age,goals
+Alexander Schlager,Goalkeeper,24,28,0
+name,position,number,age,goals
+Aleksa Terzić,Defender,3,24,0
+name,position,number,age,goals
+Kamil Piątkowski,Defender,4,23,0
+name,position,number,age,goals
+Samson Baidoo,Defender,6,19,0
+name,position,number,age,goals
+Andreas Ulmer,Defender,17,38,0
+name,position,number,age,goals
+Oumar Solet,Defender,22,24,0
+name,position,number,age,goals
+Strahinja Pavlović,Defender,31,22,0
+name,position,number,age,goals
+Leandro Morgalla,Defender,39,19,0
+name,position,number,age,goals
+Amar Dedić,Defender,70,21,0
+name,position,number,age,goals
+Nicolás Capaldo,Midfielder,7,25,0
+name,position,number,age,goals
+Dijon Kameri,Midfielder,8,19,0
+name,position,number,age,goals
+Luka Sučić,Midfielder,10,21,1
+name,position,number,age,goals
+Maurits Kjærgaard,Midfielder,14,20,0
+name,position,number,age,goals
+Mads Bidstrup,Midfielder,18,23,0
+name,position,number,age,goals
+Lucas Gourna-Douath,Midfielder,27,20,0
+name,position,number,age,goals
+Oscar Gloukh,Midfielder,30,19,2
+name,position,number,age,goals
+Amankwah Forson,Midfielder,32,21,0
+name,position,number,age,goals
+Fernando,Forward,11,25,0
+name,position,number,age,goals
+Karim Konaté,Forward,19,19,0
+name,position,number,age,goals
+Sékou Koita,Forward,20,24,0
+name,position,number,age,goals
+Petar Ratkov,Forward,21,20,0
+name,position,number,age,goals
+Roko Šimić,Forward,23,20,1
+name,position,number,age,goals
+Dorgeles Nene,Forward,45,21,0
+name,position,number,age,goals
+Marko Dmitrović,Goalkeeper,1,32,0
+name,position,number,age,goals
+Ørjan Nyland,Goalkeeper,13,33,0
+name,position,number,age,goals
+Adriá Pedrosa,Defender,3,25,0
+name,position,number,age,goals
+Sergio Ramos,Defender,4,37,2
+name,position,number,age,goals
+Tanguy Nianzou,Defender,14,21,0
+name,position,number,age,goals
+Marcos Acuña,Defender,19,32,0
+name,position,number,age,goals
+Loïc Badé,Defender,22,23,0
+name,position,number,age,goals
+Nemanja Gudelj,Midfielder,6,32,2
+name,position,number,age,goals
+Joan Jordán,Midfielder,8,29,0
+name,position,number,age,goals
+Ivan Rakitić,Midfielder,10,36,0
+name,position,number,age,goals
+Djibril Sow,Midfielder,18,27,0
+name,position,number,age,goals
+Fernando2,Midfielder,20,36,0
+name,position,number,age,goals
+Óliver Torres,Midfielder,21,29,0
+name,position,number,age,goals
+Boubakary Soumaré,Midfielder,24,25,0
+name,position,number,age,goals
+Lucas Ocampos,Forward,5,29,1
+name,position,number,age,goals
+Suso,Forward,7,30,0
+name,position,number,age,goals
+Rafa Mir,Forward,9,26,0
+name,position,number,age,goals
+Dodi Lukébakio,Forward,11,26,0
+name,position,number,age,goals
+Mariano Díaz,Forward,12,30,0
+name,position,number,age,goals
+Youssef En-Nesyri,Forward,15,26,2
+name,position,number,age,goals
+Jesús Navas,Forward,16,38,0
+name,position,number,age,goals
+Erik Lamela,Forward,17,32,0
+name,position,number,age,goals
+André Onana,Goalkeeper,24,27,0
+name,position,number,age,goals
+Victor Lindelöf,Defender,2,29,0
+name,position,number,age,goals
+Harry Maguire,Defender,5,31,1
+name,position,number,age,goals
+Lisandro Martíneze,Defender,6,26,0
+name,position,number,age,goals
+Sergio Reguilón,Defender,15,27,0
+name,position,number,age,goals
+Raphaël Varane,Defender,19,30,0
+name,position,number,age,goals
+Diogo Dalot,Defender,20,25,0
+name,position,number,age,goals
+Luke Shaw,Defender,23,28,0
+name,position,number,age,goals
+Aaron Wan-Bissaka,Defender,29,26,0
+name,position,number,age,goals
+Jonny Evans,Defender,35,36,0
+name,position,number,age,goals
+Sofyan Amrabat,Midfielder,4,27,0
+name,position,number,age,goals
+Mason Mount,Midfielder,7,25,0
+name,position,number,age,goals
+Bruno Fernandes,Midfielder,8,29,2
+name,position,number,age,goals
+Christian Eriksen,Midfielder,14,32,0
+name,position,number,age,goals
+Casemiro,Midfielder,18,32,2
+name,position,number,age,goals
+Facundo Pellistri,Midfielder,28,22,0
+name,position,number,age,goals
+Scott McTominay,Midfielder,39,27,1
+name,position,number,age,goals
+Anthony Martial,Forward,9,28,0
+name,position,number,age,goals
+Marcus Rashford,Forward,10,26,0
+name,position,number,age,goals
+Rasmus Højlund,Forward,11,21,5
+name,position,number,age,goals
+Alejandro Garnacho,Forward,17,19,1
+name,position,number,age,goals
+Antony,Forward,21,24,0
+name,position,number,age,goals
+Lisandro Martínez,Defender,6,26,0
+name,position,number,age,goals
+Mike Maignan,Goalkeeper,16,28,0
+name,position,number,age,goals
+Marco Sportiello,Goalkeeper,57,31,0
+name,position,number,age,goals
+Davide Calabria,Defender,2,27,0
+name,position,number,age,goals
+Theo Hernández,Defender,19,26,0
+name,position,number,age,goals
+Pierre Kalulu,Defender,20,23,0
+name,position,number,age,goals
+Fikayo Tomori,Defender,23,26,0
+name,position,number,age,goals
+Simon Kjær,Defender,24,34,0
+name,position,number,age,goals
+Malick Thiaw,Defender,28,22,0
+name,position,number,age,goals
+Alessandro Florenzi,Defender,42,33,0
+name,position,number,age,goals
+Yacine Adli,Midfielder,7,23,0
+name,position,number,age,goals
+Ruben Loftus-Cheek,Midfielder,8,28,0
+name,position,number,age,goals
+Tijjani Reijnders,Midfielder,14,25,0
+name,position,number,age,goals
+Tommaso Pobega,Midfielder,32,24,0
+name,position,number,age,goals
+Rade Krunić,Midfielder,33,30,0
+name,position,number,age,goals
+Yunus Musah,Midfielder,80,21,0
+name,position,number,age,goals
+Olivier Giroud,Forward,9,37,1
+name,position,number,age,goals
+Olivier Giroud,Forward,10,24,1
+name,position,number,age,goals
+Christian Pulišić,Forward,11,25,1
+name,position,number,age,goals
+Luka Jović,Forward,15,26,0
+name,position,number,age,goals
+Noah Okafor,Forward,17,23,0
+name,position,number,age,goals
+Samuel Chukwueze,Forward,21,24,2
+name,position,number,age,goals
+Rafael Leão,Forward,10,24,1
+name,position,number,age,goals
+Fernando Muslera,Goalkeeper,1,37,0
+name,position,number,age,goals
+Angeliño,Defender,3,27,1
+name,position,number,age,goals
+Davinson Sánchez,Defender,6,27,0
+name,position,number,age,goals
+Kaan Ayhan,Defender,23,29,0
+name,position,number,age,goals
+Victor Nelsson,Defender,25,25,0
+name,position,number,age,goals
+Abdülkerim Bardakcı,Defender,42,29,1
+name,position,number,age,goals
+Kazımcan Karataş,Defender,88,21,0
+name,position,number,age,goals
+Sacha Boey,Defender,93,23,1
+name,position,number,age,goals
+Kerem Demirbay,Midfielder,8,30,0
+name,position,number,age,goals
+Hakim Ziyech,Midfielder,22,30,2
+name,position,number,age,goals
+Sérgio Oliveira,Midfielder,27,31,1
+name,position,number,age,goals
+Lucas Torreira,Midfielder,34,28,0
+name,position,number,age,goals
+Tanguy Ndombélé,Midfielder,91,27,0
+name,position,number,age,goals
+Kerem Aktürkoğlu,Forward,7,25,3
+name,position,number,age,goals
+Mauro Icardi,Forward,9,31,5
+name,position,number,age,goals
+Dries Mertens,Forward,10,36,2
+name,position,number,age,goals
+Wilfried Zaha,Forward,14,31,1
+name,position,number,age,goals
+Tetê,Forward,20,24,1
+name,position,number,age,goals
+Barış Alper Yılmaz,Forward,53,23,0
+name,position,number,age,goals
+Cédric Bakambu,Forward,94,32,1
+name,position,number,age,goals
+Brice Samba,Goalkeeper,30,29,0
+name,position,number,age,goals
+Ruben Aguilar,Defender,2,30,0
+name,position,number,age,goals
+Deiver Machado,Defender,3,30,0
+name,position,number,age,goals
+Kevin Danso,Defender,4,25,0
+name,position,number,age,goals
+Facundo Medina,Defender,14,24,0
+name,position,number,age,goals
+Massadio Haïdara,Defender,21,31,0
+name,position,number,age,goals
+Jonathan Gradit,Defender,24,31,0
+name,position,number,age,goals
+Florian Sotoca,Forward,7,33,0
+name,position,number,age,goals
+Elye Wahi,Forward,9,21,2
+name,position,number,age,goals
+Abdukodir Khusanov,Defender,25,20,0
+name,position,number,age,goals
+Przemysław Frankowski,Defender,29,28,1
+name,position,number,age,goals
+Salis Abdul Samed,Midfielder,6,23,0
+name,position,number,age,goals
+David Pereira Da Costa,Midfielder,10,23,0
+name,position,number,age,goals
+Andy Diouf,Midfielder,18,20,0
+name,position,number,age,goals
+Neil El Aynaoui,Midfielder,23,22,0
+name,position,number,age,goals
+Nampalys Mendy,Midfielder,26,31,0
+name,position,number,age,goals
+Adrien Thomasson,Midfielder,28,30,1
+name,position,number,age,goals
+Angelo Fulgini,Forward,11,27,2
+name,position,number,age,goals
+Wesley Saïd,Forward,22,28,0
+name,position,number,age,goals
+Morgan Guilavogui,Forward,27,26,0
+name,position,number,age,goals
+Joe Hart,Goalkeeper,1,36,0
+name,position,number,age,goals
+Alistair Johnston,Defender,2,25,0
+name,position,number,age,goals
+Greg Taylor,Defender,3,26,0
+name,position,number,age,goals
+Gustaf Lagerbielke,Defender,4,23,1
+name,position,number,age,goals
+Liam Scales,Defender,5,25,0
+name,position,number,age,goals
+Nathaniel Phillips,Defender,6,26,0
+name,position,number,age,goals
+Cameron Carter-Vickers,Defender,20,26,0
+name,position,number,age,goals
+Reo Hatate,Defender,41,26,0
+name,position,number,age,goals
+Stephen Welsh,Defender,57,24,0
+name,position,number,age,goals
+Luis Palma,Midfielder,7,24,2
+name,position,number,age,goals
+Kyogo Furuhashi,Midfielder,8,29,2
+name,position,number,age,goals
+Hyunjun,Midfielder,13,21,0
+name,position,number,age,goals
+Odin Thiago Holm,Midfielder,15,21,0
+name,position,number,age,goals
+Tomoki Iwata,Midfielder,24,26,0
+name,position,number,age,goals
+Paulo Bernardo,Midfielder,28,22,0
+name,position,number,age,goals
+Matthew O Riley,Midfielder,33,23,0
+name,position,number,age,goals
+Callum McGregor,Midfielder,42,30,0
+name,position,number,age,goals
+James Forrest,Midfielder,49,32,0
+name,position,number,age,goals
+David Turnbull,Forward,14,24,0
+name,position,number,age,goals
+Hyeongyu Oh,Forward,19,22,0
+name,position,number,age,goals
+Daizen Maeda,Forward,38,26,0
+name,position,number,age,goals
+Mikey Johnston,Forward,90,24,0
+name,position,number,age,goals
+Omri Glazer,Goalkeeper,18,28,0
+name,position,number,age,goals
+Miloš Degenek,Defender,3,29,0
+name,position,number,age,goals
+Uroš Spajić,Defender,5,31,0
+name,position,number,age,goals
+Aleksandar Dragović,Defender,15,33,0
+name,position,number,age,goals
+Milan Rodić,Defender,23,32,0
+name,position,number,age,goals
+Nasser Djiga,Defender,24,21,0
+name,position,number,age,goals
+Mirko Ivanić,Midfielder,4,30,0
+name,position,number,age,goals
+Marko Stamenic,Midfielder,6,22,1
+name,position,number,age,goals
+Guélor Kanga,Midfielder,8,33,0
+name,position,number,age,goals
+Aleksandar Katai,Midfielder,10,33,1
+name,position,number,age,goals
+Kings Kangwa,Midfielder,20,24,0
+name,position,number,age,goals
+Osman Bukari,Midfielder,30,25,2
+name,position,number,age,goals
+Srdjan Mijailović,Midfielder,33,30,0
+name,position,number,age,goals
+Vladimir Lučić,Midfielder,37,21,0
+name,position,number,age,goals
+Inbeom Hwang,Midfielder,66,27,1
+name,position,number,age,goals
+Uroš Kabić,Midfielder,70,20,0
+name,position,number,age,goals
+Stefan Mitrović,Midfielder,80,21,0
+name,position,number,age,goals
+Cherif Ndiaye,Forward,9,28,1
+name,position,number,age,goals
+Peter Olayinka,Forward,14,28,0
+name,position,number,age,goals
+Jean-Philippe Krasso,Forward,17,26,0
+name,position,number,age,goals
+Justin Bijlow,Goalkeeper,1,26,0
+name,position,number,age,goals
+Timon Wellenreuther,Goalkeeper,22,28,0
+name,position,number,age,goals
+Bart Nieuwkoop,Defender,2,28,0
+name,position,number,age,goals
+Thomas Beelen,Defender,3,22,0
+name,position,number,age,goals
+Lutsharel Geertruida,Defender,4,23,0
+name,position,number,age,goals
+Quilindschy Hartman,Defender,5,22,0
+name,position,number,age,goals
+Marcos Lopez,Defender,15,24,0
+name,position,number,age,goals
+Gernot Trauner,Defender,18,31,0
+name,position,number,age,goals
+Dávid Hancko,Defender,33,26,1
+name,position,number,age,goals
+Ramiz Zerrouki,Midfielder,6,25,1
+name,position,number,age,goals
+Quinten Timber,Midfielder,8,22,0
+name,position,number,age,goals
+Calvin Stengs,Midfielder,10,25,1
+name,position,number,age,goals
+Thomas Van Den Belt,Midfielder,16,22,0
+name,position,number,age,goals
+Mats Wieffer,Midfielder,20,24,1
+name,position,number,age,goals
+Ondřej Lingr,Midfielder,32,25,0
+name,position,number,age,goals
+Alireza Jahanbakhsh,Forward,7,30,1
+name,position,number,age,goals
+Ayase Ueda,Forward,9,25,0
+name,position,number,age,goals
+Javairo Dilrosun,Forward,11,25,0
+name,position,number,age,goals
+Igor Paixão,Forward,14,23,0
+name,position,number,age,goals
+Luka Ivanušec,Forward,17,25,0
+name,position,number,age,goals
+Yankuba Minteh,Forward,19,19,1
+name,position,number,age,goals
+Leo Sauer,Forward,25,18,0
+name,position,number,age,goals
+Santiago Giménez,Forward,29,22,2
+name,position,number,age,goals
+Jean Butez,Goalkeeper,1,28,0
+name,position,number,age,goals
+Senne Lammens,Goalkeeper,91,21,0
+name,position,number,age,goals
+Ritchie De Laet,Defender,2,35,0
+name,position,number,age,goals
+Björn Engels,Defender,3,29,0
+name,position,number,age,goals
+Owen Wijndal,Defender,5,24,0
+name,position,number,age,goals
+Toby Alderweireld,Defender,23,35,0
+name,position,number,age,goals
+Mandela Keita,Defender,27,21,0
+name,position,number,age,goals
+Jelle Bataille,Defender,34,24,0
+name,position,number,age,goals
+Soumaula Coulibaly,Defender,44,20,0
+name,position,number,age,goals
+Gyrano Kerk,Midfielder,7,28,1
+name,position,number,age,goals
+Alhassan Yusuf,Midfielder,8,23,1
+name,position,number,age,goals
+Jacob Ondrejka,Midfielder,17,21,0
+name,position,number,age,goals
+Chidera Ejuke,Midfielder,19,26,0
+name,position,number,age,goals
+Jurgen Ekkelenkamp,Midfielder,24,23,0
+name,position,number,age,goals
+Arthur Vermeeren,Midfielder,48,19,1
+name,position,number,age,goals
+George Ilenikhena,Forward,9,17,1
+name,position,number,age,goals
+Michel-Ange Balikwisha,Forward,10,22,2
+name,position,number,age,goals
+Arbnor Muja,Forward,11,25,1
+name,position,number,age,goals
+Vincent Janssen,Forward,18,29,2
+name,position,number,age,goals
+Anthony Valencia,Forward,55,20,0
+name,position,number,age,goals
+Anatoliy Trubin,Goalkeeper,1,22,0
+name,position,number,age,goals
+Morato,Defender,5,22,0
+name,position,number,age,goals
+Alexander Bah,Defender,6,26,0
+name,position,number,age,goals
+David Jurásek,Defender,13,23,0
+name,position,number,age,goals
+Juan Bernat,Defender,14,31,0
+name,position,number,age,goals
+Nicolás Otamendi,Defender,30,36,0
+name,position,number,age,goals
+Fredrik Aursnes,Midfielder,8,28,0
+name,position,number,age,goals
+Orkun Kökçü,Midfielder,10,23,0
+name,position,number,age,goals
+João Mário2,Midfielder,20,31,3
+name,position,number,age,goals
+Chiquinho,Midfielder,22,28,0
+name,position,number,age,goals
+Florentino,Midfielder,61,24,0
+name,position,number,age,goals
+David Neres,Forward,7,27,0
+name,position,number,age,goals
+Arthur Cabral,Forward,9,25,1
+name,position,number,age,goals
+Ángel Di María,Forward,11,36,1
+name,position,number,age,goals
+Gonçalo Guedes,Forward,17,27,0
+name,position,number,age,goals
+Casper Tengstedt,Forward,19,23,0
+name,position,number,age,goals
+Rafa Silva,Forward,27,30,2
+name,position,number,age,goals
+Petar Musa,Forward,33,26,0
+name,position,number,age,goals
+Tiago Gouveia,Forward,47,22,0
+name,position,number,age,goals
+Matheus,Goalkeeper,1,31,0
+name,position,number,age,goals
+Victor Gómez,Defender,2,23,0
+name,position,number,age,goals
+Sikou Niakaté,Defender,4,24,1
+name,position,number,age,goals
+Serdar Saatçı,Defender,5,21,0
+name,position,number,age,goals
+José Fonte,Defender,6,40,0
+name,position,number,age,goals
+Paulo Oliveira,Defender,15,32,0
+name,position,number,age,goals
+Josafat Mendes,Defender,17,21,0
+name,position,number,age,goals
+Adrián Marín,Defender,19,27,0
+name,position,number,age,goals
+Cristian Borja,Defender,26,31,0
+name,position,number,age,goals
+Al Musrati,Midfielder,8,27,1
+name,position,number,age,goals
+André Horta,Midfielder,10,27,0
+name,position,number,age,goals
+Rodrigo Zalazar,Midfielder,16,24,0
+name,position,number,age,goals
+Vitor Carvalho,Midfielder,18,26,0
+name,position,number,age,goals
+Pizzi,Midfielder,22,34,2
+name,position,number,age,goals
+João Moutinho,Midfielder,28,37,0
+name,position,number,age,goals
+André Castro,Midfielder,88,35,1
+name,position,number,age,goals
+Bruma,Forward,7,29,5
+name,position,number,age,goals
+Abel Ruiz,Forward,9,24,1
+name,position,number,age,goals
+Álvaro Djaló,Forward,14,24,5
+name,position,number,age,goals
+Rony Lopes,Forward,20,28,0
+name,position,number,age,goals
+Ricardo Horta,Forward,21,29,0
+name,position,number,age,goals
+Simon Banza,Forward,23,27,0
+name,position,number,age,goals
+Alex Meret,Goalkeeper,1,26,0
+name,position,number,age,goals
+Natan,Defender,3,23,0
+name,position,number,age,goals
+Juan Jesus,Defender,5,32,0
+name,position,number,age,goals
+Mário Rui,Defender,6,32,0
+name,position,number,age,goals
+Amir Rrahmani,Defender,13,30,1
+name,position,number,age,goals
+Mathías Olivera,Defender,17,26,0
+name,position,number,age,goals
+Giovanni Di Lorenzo,Defender,22,30,1
+name,position,number,age,goals
+Leo Østigård,Defender,55,24,1
+name,position,number,age,goals
+Hamed Traorè,Midfielder,8,24,0
+name,position,number,age,goals
+Jens Cajuste,Midfielder,24,24,0
+name,position,number,age,goals
+Jesper Lindstrøm,Midfielder,29,24,0
+name,position,number,age,goals
+Stanislav Lobotka,Midfielder,68,29,0
+name,position,number,age,goals
+André-Frank Zambo Anguiss,Midfielder,99,28,1
+name,position,number,age,goals
+Victor Osimhen,Forward,9,25,2
+name,position,number,age,goals
+Giovanni Simeone,Forward,18,28,1
+name,position,number,age,goals
+Matteo Politano,Forward,21,30,1
+name,position,number,age,goals
+Cyril Ngonge,Forward,26,23,0
+name,position,number,age,goals
+Khvicha Kvaratskhelia,Forward,77,23,0
+name,position,number,age,goals
+Giacomo Raspadori,Forward,81,24,1
+name,position,number,age,goals
+Walter Benítez,Goalkeeper,1,31,0
+name,position,number,age,goals
+Shurandy Sambo,Defender,2,22,0
+name,position,number,age,goals
+Jordan Teze,Defender,3,24,1
+name,position,number,age,goals
+Armando Obispo,Defender,4,25,0
+name,position,number,age,goals
+André Ramalho,Defender,5,32,0
+name,position,number,age,goals
+Armel Bella-Kotchapo,Defender,6,22,0
+name,position,number,age,goals
+Sergiño Dest,Defender,8,23,0
+name,position,number,age,goals
+Mauro Júnior,Defender,17,24,0
+name,position,number,age,goals
+Olivier Boscagli,Defender,18,26,0
+name,position,number,age,goals
+Patrick Van Aanholt,Defender,30,33,0
+name,position,number,age,goals
+Malik Tillman,Midfielder,10,21,0
+name,position,number,age,goals
+Guus Til,Midfielder,20,26,0
+name,position,number,age,goals
+Jerdy Schouten,Midfielder,22,27,0
+name,position,number,age,goals
+Joey Veerman,Midfielder,23,25,2
+name,position,number,age,goals
+Noa Lang,Forward,7,24,0
+name,position,number,age,goals
+Luuk De Jong,Forward,9,33,8
+name,position,number,age,goals
+Ricardo Pepi,Forward,14,21,2
+name,position,number,age,goals
+Hirving Lozano,Forward,27,28,0
+name,position,number,age,goals
+Ismael Saibari,Forward,34,23,3
+name,position,number,age,goals
+Alejandro Remiro,Goalkeeper,1,28,0
+name,position,number,age,goals
+Álvaro Odriozola,Defender,2,28,0
+name,position,number,age,goals
+Aritz Elustondo,Defender,6,29,0
+name,position,number,age,goals
+Kieran Tierney,Defender,17,26,0
+name,position,number,age,goals
+Hamari Traoré,Defender,18,32,0
+name,position,number,age,goals
+Jon Pachecoé,Defender,20,23,0
+name,position,number,age,goals
+Robin Le Normand,Defender,24,27,0
+name,position,number,age,goals
+Javier Galán,Defender,25,29,0
+name,position,number,age,goals
+Jon Aramburu,Defender,42,21,0
+name,position,number,age,goals
+Martin Zubimendi,Midfielder,4,25,0
+name,position,number,age,goals
+Igor Zubeldia,Midfielder,5,26,0
+name,position,number,age,goals
+Mikel Merino,Midfielder,8,27,2
+name,position,number,age,goals
+Mikel Oyarzabal,Midfielder,10,26,2
+name,position,number,age,goals
+Arsen Zakharyan,Midfielder,12,20,0
+name,position,number,age,goals
+Jon Ander Olasagasti,Midfielder,16,23,0
+name,position,number,age,goals
+Brais Méndez,Midfielder,23,27,3
+name,position,number,age,goals
+Jon Magunacelaya,Midfielder,28,22,0
+name,position,number,age,goals
+Ander Barrenetxea,Forward,7,22,1
+name,position,number,age,goals
+Carlos Fernández,Forward,9,27,0
+name,position,number,age,goals
+Sheraldo Becker,Forward,11,29,0
+name,position,number,age,goals
+Takefusa Kubo,Forward,14,22,0
+name,position,number,age,goals
+Umar Sadiq,Forward,19,27,0
+name,position,number,age,goals
+André Silva,Forward,21,28,0
+name,position,number,age,goals
+Yann Sommer,Goalkeeper,1,35,0
+name,position,number,age,goals
+Denzel Dumfries,Defender,2,27,0
+name,position,number,age,goals
+Stefan de Vrij,Defender,6,35,0
+name,position,number,age,goals
+Francesco Acerbi,Defender,15,36,0
+name,position,number,age,goals
+Benjamin Pavard,Defender,28,27,0
+name,position,number,age,goals
+Carlos Augusto,Defender,30,25,0
+name,position,number,age,goals
+Yann Bisseck,Defender,31,23,0
+name,position,number,age,goals
+Federico Dimarco,Defender,32,26,1
+name,position,number,age,goals
+Matteo Darmian,Defender,36,34,0
+name,position,number,age,goals
+Alessandro Bastoni,Defender,95,24,0
+name,position,number,age,goals
+Davy Klaassen,Midfielder,14,31,0
+name,position,number,age,goals
+Davide Frattesi,Midfielder,16,24,1
+name,position,number,age,goals
+Hakan Çalhanoğlu,Midfielder,20,30,1
+name,position,number,age,goals
+Kristjan Asllani,Midfielder,21,22,0
+name,position,number,age,goals
+Henrikh Mkhitaryan,Midfielder,22,35,0
+name,position,number,age,goals
+Nicolò Barella,Midfielder,23,27,0
+name,position,number,age,goals
+Marko Arnautović,Forward,8,34,2
+name,position,number,age,goals
+Marcus Thuram,Forward,9,26,1
+name,position,number,age,goals
+Lautaro Martínez,Forward,10,26,2
+name,position,number,age,goals
+Alexis Sánchez,Forward,70,35,2
+name,position,number,age,goals
+Ivan Provedel,Goalkeeper,94,30,0
+name,position,number,age,goals
+Luca Pellegrini,Defender,3,25,0
+name,position,number,age,goals
+Patric,Defender,4,30,0
+name,position,number,age,goals
+Alessio Romagnoli,Defender,13,29,0
+name,position,number,age,goals
+Nicolò Casale,Defender,15,26,0
+name,position,number,age,goals
+Elseid Hysaj,Defender,23,30,0
+name,position,number,age,goals
+Manuel Lazzari,Defender,29,30,0
+name,position,number,age,goals
+Matías Vecino,Midfielder,5,32,1
+name,position,number,age,goals
+Daichi Kamada,Midfielder,6,27,0
+name,position,number,age,goals
+Felipe Anderson,Midfielder,7,30,0
+name,position,number,age,goals
+Matteo Guendouzi,Midfielder,8,24,0
+name,position,number,age,goals
+Luis Alberto,Midfielder,10,31,0
+name,position,number,age,goals
+Danilo Cataldi,Midfielder,32,29,0
+name,position,number,age,goals
+Nicolò Rovella,Midfielder,65,22,0
+name,position,number,age,goals
+Adam Marušić,Midfielder,77,31,0
+name,position,number,age,goals
+Pedro Rodríguez,Forward,9,36,2
+name,position,number,age,goals
+Ciro Immobile,Forward,17,34,4
+name,position,number,age,goals
+Gustav Isaksen,Forward,18,22,0
+name,position,number,age,goals
+Taty Castellanos,Forward,19,25,0
+name,position,number,age,goals
+Mattia Zaccagni,Forward,20,28,0
+name,position,number,age,goals
+Péter Gulácsi,Goalkeeper,1,33,0
+name,position,number,age,goals
+Janis Blaswich,Goalkeeper,21,32,0
+name,position,number,age,goals
+Mohamed Simakan,Defender,2,23,1
+name,position,number,age,goals
+Christopher Lenz,Defender,3,29,0
+name,position,number,age,goals
+Willi Orbán,Defender,4,31,1
+name,position,number,age,goals
+Lukas Klostermannn,Defender,16,27,0
+name,position,number,age,goals
+David Raum,Defender,22,25,1
+name,position,number,age,goals
+Castello Lukeba,Defender,25,21,0
+name,position,number,age,goals
+Benjamin Henrichs,Defender,39,27,0
+name,position,number,age,goals
+Eljif Elmas,Midfielder,6,24,0
+name,position,number,age,goals
+Amadou Haidara,Midfielder,8,26,0
+name,position,number,age,goals
+Nicolas Seiwald,Midfielder,13,22,0
+name,position,number,age,goals
+Christoph Baumgartner,Midfielder,14,24,0
+name,position,number,age,goals
+Xaver Schlager,Midfielder,24,26,1
+name,position,number,age,goals
+Kevin Kampl,Midfielder,44,33,0
+name,position,number,age,goals
+Dani Olmo,Forward,7,25,1
+name,position,number,age,goals
+Yussuf Poulsen,Forward,9,29,0
+name,position,number,age,goals
+Loïs Openda,Forward,17,24,4
+name,position,number,age,goals
+Xavi Simons,Forward,20,20,2
+name,position,number,age,goals
+Benjamin Šeško,Forward,30,20,2
+name,position,number,age,goals
+Kamil Grabara,Goalkeeper,1,25,0
+name,position,number,age,goals
+Kevin Diks,Defender,2,27,0
+name,position,number,age,goals
+Denis Vavro,Defender,3,27,1
+name,position,number,age,goals
+Christian Sørensen,Defender,6,31,0
+name,position,number,age,goals
+Nicolai Boilesen,Defender,20,32,0
+name,position,number,age,goals
+Birger Meling,Defender,24,29,0
+name,position,number,age,goals
+Scott McKenna,Defender,26,27,0
+name,position,number,age,goals
+Viktor Claesson,Midfielder,7,32,2
+name,position,number,age,goals
+Magnus Mattsson,Midfielder,8,25,1
+name,position,number,age,goals
+Mohamed Elyounoussi,Midfielder,10,29,3
+name,position,number,age,goals
+Lukas Lerager,Midfielder,12,30,3
+name,position,number,age,goals
+Diogo Gonçalves,Forward,9,27,3
+name,position,number,age,goals
+Jordan Larsson,Forward,11,26,3
+name,position,number,age,goals
+Elias Achouri,Forward,30,25,1
+name,position,number,age,goals
+Rasmus Falk,Forward,33,32,1
+name,position,number,age,goals
+Diogo Costa,Goalkeeper,99,24,0
+name,position,number,age,goals
+Fábio Cardoso,Defender,2,29,0
+name,position,number,age,goals
+Pepe,Defender,3,41,2
+name,position,number,age,goals
+Zaidu,Defender,12,26,0
+name,position,number,age,goals
+Jorge Sánchez,Defender,15,26,0
+name,position,number,age,goals
+Wendell,Defender,18,30,0
+name,position,number,age,goals
+Otávio,Defender,31,21,0
+name,position,number,age,goals
+Stephen Eustáquio,Midfielder,6,27,1
+name,position,number,age,goals
+Marko Grujić,Midfielder,8,27,0
+name,position,number,age,goals
+Nico González,Midfielder,16,22,0
+name,position,number,age,goals
+Iván Jaime,Midfielder,17,23,0
+name,position,number,age,goals
+André Franco,Midfielder,20,25,0
+name,position,number,age,goals
+Alan Varela,Midfielder,22,22,0
+name,position,number,age,goals
+Romário Baró,Midfielder,28,24,0
+name,position,number,age,goals
+Mehdi Taremi,Forward,9,31,2
+name,position,number,age,goals
+Eduardo Gabriel Aquino Cossa,Forward,11,27,1
+name,position,number,age,goals
+Galeno,Forward,13,26,5
+name,position,number,age,goals
+Danny Namaso,Forward,19,23,0
+name,position,number,age,goals
+João Mário,Forward,23,24,0
+name,position,number,age,goals
+Toni Martínez,Forward,29,26,0
+name,position,number,age,goals
+Evanilson,Forward,30,24,4
+name,position,number,age,goals
+Gonçalo Borges,Forward,70,22,0
+name,position,number,age,goals
+Stefan Ortega,Goalkeeper,18,31,0
+name,position,number,age,goals
+Ederson,Goalkeeper,31,30,0
+name,position,number,age,goals
+Scott Carson,Goalkeeper,33,38,0
+name,position,number,age,goals
+Kyle Walker,Defender,2,33,0
+name,position,number,age,goals
+Rúben Dias,Defender,3,26,0
+name,position,number,age,goals
+John Stones,Defender,5,29,0
+name,position,number,age,goals
+Nathan Aké,Defender,6,29,0
+name,position,number,age,goals
+Sergio Gómez,Defender,21,23,0
+name,position,number,age,goals
+Joško Gvardiol,Defender,24,22,0
+name,position,number,age,goals
+Manuel Akanji,Defender,25,28,2
+name,position,number,age,goals
+Mateo Kovačić,Midfielder,8,29,0
+name,position,number,age,goals
+Jack Grealish,Midfielder,10,28,0
+name,position,number,age,goals
+Rodri,Midfielder,16,27,1
+name,position,number,age,goals
+Kevin De Bruyne,Midfielder,17,32,1
+name,position,number,age,goals
+Bernardo Silva,Midfielder,20,29,1
+name,position,number,age,goals
+Matheus Nunes,Midfielder,27,25,0
+name,position,number,age,goals
+Phil Foden,Midfielder,47,23,4
+name,position,number,age,goals
+Erling Haaland,Forward,9,23,6
+name,position,number,age,goals
+Jérémy Doku,Forward,11,21,1
+name,position,number,age,goals
+Julián Álvarez,Forward,19,24,5
+name,position,number,age,goals
+Thibaut Courtois,Goalkeeper,1,31,0
+name,position,number,age,goals
+Andriy Lunin,Goalkeeper,13,25,0
+name,position,number,age,goals
+Kepa Arrizabalaga,Goalkeeper,25,29,0
+name,position,number,age,goals
+Fran González,Goalkeeper,30,18,0
+name,position,number,age,goals
+Dani Carvajal,Defender,2,32,0
+name,position,number,age,goals
+Éder Militão,Defender,3,26,0
+name,position,number,age,goals
+David Alaba,Defender,4,31,0
+name,position,number,age,goals
+Nacho Fernández Iglesias,Defender,6,34,0
+name,position,number,age,goals
+Fran García,Defender,20,24,0
+name,position,number,age,goals
+Antonio Rüdiger,Defender,22,31,0
+name,position,number,age,goals
+Ferland Mendy,Defender,23,28,0
+name,position,number,age,goals
+Vinicius Tobias,Defender,36,20,0
+name,position,number,age,goals
+Jude Bellingham,Midfielder,5,20,4
+name,position,number,age,goals
+Toni Kroos,Midfielder,8,34,0
+name,position,number,age,goals
+Luka Modrić,Midfielder,10,38,0
+name,position,number,age,goals
+Federico Valverde,Midfielder,15,25,0
+name,position,number,age,goals
+Lucas Vázquez,Midfielder,17,32,0
+name,position,number,age,goals
+Aurélien Tchouameni,Midfielder,18,24,0
+name,position,number,age,goals
+Dani Ceballos,Midfielder,19,27,1
+name,position,number,age,goals
+Brahim Díaz,Midfielder,21,24,2
+name,position,number,age,goals
+Arda Güler,Midfielder,24,19,0
+name,position,number,age,goals
+Vinícius Júnior,Forward,7,23,3
+name,position,number,age,goals
+Rodrygo,Forward,11,23,3
+name,position,number,age,goals
+Joselu,Forward,14,33,3
+name,position,number,age,goals
+Keylor Navas,Goalkeeper,1,37,0
+name,position,number,age,goals
+Alexandre Letellier,Goalkeeper,30,33,0
+name,position,number,age,goals
+Arnau Tenas,Goalkeeper,80,22,0
+name,position,number,age,goals
+Gianluigi Donnarumma,Goalkeeper,99,25,0
+name,position,number,age,goals
+Achraf Hakimi,Defender,2,25,1
+name,position,number,age,goals
+Presnel Kimpembe,Defender,3,28,0
+name,position,number,age,goals
+Marquinhos,Defender,5,29,0
+name,position,number,age,goals
+Lucas Hernández,Defender,21,28,1
+name,position,number,age,goals
+Nordi Mukiele,Defender,26,26,0
+name,position,number,age,goals
+Lucas Beraldo,Defender,35,20,0
+name,position,number,age,goals
+Milan Škriniar,Defender,37,29,1
+name,position,number,age,goals
+Manuel Ugarte,Midfielder,4,22,0
+name,position,number,age,goals
+Fabián Ruiz,Midfielder,8,27,0
+name,position,number,age,goals
+Danilo,Midfielder,15,32,0
+name,position,number,age,goals
+Vitinha,Midfielder,17,24,0
+name,position,number,age,goals
+Carlos Soler,Midfielder,28,27,0
+name,position,number,age,goals
+Warren Zaïre-Emery,Midfielder,33,18,1
+name,position,number,age,goals
+Kylian Mbappé,Forward,7,25,6
+name,position,number,age,goals
+Gonçalo Ramos,Forward,9,22,0
+name,position,number,age,goals
+Ousmane Dembélé,Forward,10,26,0
+name,position,number,age,goals
+Marco Asensio,Forward,11,28,0
+name,position,number,age,goals
+Randal Kolo Muani,Forward,23,25,1
+name,position,number,age,goals
+Bradley Barcola,Forward,29,21,1
+name,position,number,age,goals
+Marc-André ter Stegen,Goalkeeper,1,31,0
+name,position,number,age,goals
+Iñaki Peña,Goalkeeper,13,25,0
+name,position,number,age,goals
+João Cancelo,Defender,2,29,2
+name,position,number,age,goals
+Alejandro Balde,Defender,3,20,0
+name,position,number,age,goals
+Ronald Araújo,Defender,4,25,0
+name,position,number,age,goals
+Iñigo Martínez,Defender,5,32,0
+name,position,number,age,goals
+Andreas Christensen,Defender,15,27,0
+name,position,number,age,goals
+Marcos Alonso,Defender,17,33,0
+name,position,number,age,goals
+Jules Koundé,Defender,23,25,0
+name,position,number,age,goals
+Pablo Martín Páez Gavira,Midfielder,6,19,1
+name,position,number,age,goals
+Pedro González López,Midfielder,8,21,0
+name,position,number,age,goals
+Oriol Romeu,Midfielder,18,32,0
+name,position,number,age,goals
+Sergi Roberto,Midfielder,20,32,0
+name,position,number,age,goals
+Frenkie de Jong,Midfielder,21,26,0
+name,position,number,age,goals
+İlkay Gündoğan,Midfielder,22,33,0
+name,position,number,age,goals
+Unai Hernandez,Midfielder,35,19,0
+name,position,number,age,goals
+Ferran Torres,Forward,7,24,3
+name,position,number,age,goals
+Robert Lewandowski,Forward,9,35,3
+name,position,number,age,goals
+Raphinha,Forward,11,27,0
+name,position,number,age,goals
+João Félix,Forward,14,24,3
+name,position,number,age,goals
+Vitor Roque,Forward,19,19,0
+name,position,number,age,goals
+Pau Victor,Forward,37,22,0
+name,position,number,age,goals
+Manuel Neuer,Goalkeeper,1,37,0
+name,position,number,age,goals
+Daniel Peretz,Goalkeeper,18,23,0
+name,position,number,age,goals
+Sven Ulreich,Goalkeeper,26,35,0
+name,position,number,age,goals
+Minjae Kim,Defender,2,25,0
+name,position,number,age,goals
+Dayot Upamecano,Defender,2,25,0
+name,position,number,age,goals
+Matthijs de Ligt,Defender,4,24,0
+name,position,number,age,goals
+Eric Dier,Defender,15,30,0
+name,position,number,age,goals
+Bouna Sarr,Defender,20,32,0
+name,position,number,age,goals
+Raphaël Guerreiro,Defender,22,30,0
+name,position,number,age,goals
+Sacha Boey,Defender,23,23,0
+name,position,number,age,goals
+Tarek Buchmann,Defender,28,19,0
+name,position,number,age,goals
+Noussair Mazraoui,Defender,40,26,0
+name,position,number,age,goals
+Joshua Kimmich,Midfielder,6,29,0
+name,position,number,age,goals
+Leon Goretzka,Midfielder,8,29,0
+name,position,number,age,goals
+Leroy Sané,Midfielder,10,28,1
+name,position,number,age,goals
+Eric Maxim Choupo-Moting,Midfielder,13,34,0
+name,position,number,age,goals
+Alphonso Davies,Midfielder,19,23,0
+name,position,number,age,goals
+Konrad Laimer,Midfielder,27,26,0
+name,position,number,age,goals
+Jamal Musiala,Midfielder,42,21,2
+name,position,number,age,goals
+Serge Gnabry,Forward,7,28,1
+name,position,number,age,goals
+Harry Kane,Forward,9,30,6
+name,position,number,age,goals
+Kingsley Coman,Forward,11,27,2
+name,position,number,age,goals
+Bryan Zaragoza,Forward,17,22,0
+name,position,number,age,goals
+Thomas Müller,Forward,25,34,1
+name,position,number,age,goals
+Mathys Tel,Forward,39,18,2
+name,position,number,age,goals
+Gregor Kobel,Goalkeeper,1,26,0
+name,position,number,age,goals
+Silas Ostrzinski,Goalkeeper,31,20,0
+name,position,number,age,goals
+Alexander Meyer,Goalkeeper,33,32,0
+name,position,number,age,goals
+Marcel Lotka,Goalkeeper,35,32,0
+name,position,number,age,goals
+Nico Schlotterbeck,Defender,4,24,0
+name,position,number,age,goals
+Ramy Bensebaini,Defender,5,28,0
+name,position,number,age,goals
+Mats Hummels,Defender,15,35,0
+name,position,number,age,goals
+Ian Maatsen,Defender,22,22,0
+name,position,number,age,goals
+Emre Can,Defender,23,30,0
+name,position,number,age,goals
+Niklas Süle,Defender,25,28,0
+name,position,number,age,goals
+Julian Ryerson,Defender,26,26,0
+name,position,number,age,goals
+Salih Özcan,Midfielder,6,26,0
+name,position,number,age,goals
+Felix Nmecha,Midfielder,8,23,1
+name,position,number,age,goals
+Jadon Sancho,Midfielder,10,23,1
+name,position,number,age,goals
+Marco Reus,Midfielder,11,34,2
+name,position,number,age,goals
+Julien Duranville,Midfielder,16,17,0
+name,position,number,age,goals
+Marius Wolf,Midfielder,17,28,0
+name,position,number,age,goals
+Julian Brandt,Midfielder,19,27,1
+name,position,number,age,goals
+Marcel Sabitzer,Midfielder,20,30,0
+name,position,number,age,goals
+Jamie Bynoe-Gittens,Midfielder,43,19,1
+name,position,number,age,goals
+Sébastien Haller,Forward,9,29,0
+name,position,number,age,goals
+Youssoufa Moukoko,Forward,18,19,0
+name,position,number,age,goals
+Donyell Malen,Forward,21,25,1
+name,position,number,age,goals
+Karim Adeyemi,Forward,27,22,2
+name,position,number,age,goals
+Aaron Ramsdale,Goalkeeper,1,25,0
+name,position,number,age,goals
+David Raya,Goalkeeper,22,28,0
+name,position,number,age,goals
+James Hillson,Goalkeeper,54,23,0
+name,position,number,age,goals
+William Saliba,Defender,2,22,0
+name,position,number,age,goals
+Ben White,Defender,4,26,0
+name,position,number,age,goals
+Gabriel,Defender,6,26,0
+name,position,number,age,goals
+Jurriën Timber,Defender,12,22,0
+name,position,number,age,goals
+Jakub Kiwior,Defender,15,24,0
+name,position,number,age,goals
+Cédric,Defender,17,32,0
+name,position,number,age,goals
+Takehiro Tomiyasu,Defender,18,25,0
+name,position,number,age,goals
+Oleksandr Zinchenko,Defender,35,27,0
+name,position,number,age,goals
+Thomas Partey,Midfielder,5,30,0
+name,position,number,age,goals
+Martin Ødegaard,Midfielder,8,25,2
+name,position,number,age,goals
+Leandro Trossard,Midfielder,19,29,3
+name,position,number,age,goals
+Jorginho,Midfielder,20,32,1
+name,position,number,age,goals
+Fábio Vieira,Midfielder,21,23,0
+name,position,number,age,goals
+Mohamed Elneny,Midfielder,25,31,0
+name,position,number,age,goals
+Kai Havertz,Midfielder,29,24,1
+name,position,number,age,goals
+Declan Rice,Midfielder,41,25,0
+name,position,number,age,goals
+Bukayo Saka,Forward,7,22,3
+name,position,number,age,goals
+Gabriel Jesus,Forward,9,26,4
+name,position,number,age,goals
+Emile Smith Rowe,Forward,10,23,0
+name,position,number,age,goals
+Gabriel Martinelli,Forward,11,22,2
+name,position,number,age,goals
+Eddie Nketiah,Forward,14,24,1
+name,position,number,age,goals
+Reiss Nelson,Forward,24,24,0
+name,position,number,age,goals
+Horatiu Moldovan,Goalkeeper,1,26,0
+name,position,number,age,goals
+Jan Oblak,Goalkeeper,13,31,0
+name,position,number,age,goals
+José María Giménez,Defender,2,29,0
+name,position,number,age,goals
+César Azpilicueta,Defender,3,34,0
+name,position,number,age,goals
+Gabriel Paulista,Defender,4,33,0
+name,position,number,age,goals
+Stefan Savić,Defender,15,33,0
+name,position,number,age,goals
+Nahuel Molina,Defender,16,25,0
+name,position,number,age,goals
+Mario Hermoso,Defender,22,28,1
+name,position,number,age,goals
+Reinildo,Defender,23,30,0
+name,position,number,age,goals
+Rodrigo De Paul,Midfielder,5,29,0
+name,position,number,age,goals
+Koke,Midfielder,6,32,0
+name,position,number,age,goals
+Saúl Ñíguez,Midfielder,8,29,1
+name,position,number,age,goals
+Thomas Lemar,Midfielder,11,28,0
+name,position,number,age,goals
+Samuel Lino,Midfielder,12,24,2
+name,position,number,age,goals
+Marcos Llorente,Midfielder,14,29,0
+name,position,number,age,goals
+Rodrigo Riquelme,Midfielder,17,23,0
+name,position,number,age,goals
+Arthur Vermeeren,Midfielder,18,19,0
+name,position,number,age,goals
+Axel Witsel,Midfielder,20,35,0
+name,position,number,age,goals
+Sergio Guerrero,Midfielder,40,25,0
+name,position,number,age,goals
+Antoine Griezmann,Forward,7,32,6
+name,position,number,age,goals
+Memphis Depay,Forward,9,30,1
+name,position,number,age,goals
+Ángel Correa,Forward,10,29,0
+name,position,number,age,goals
+Álvaro Morata,Forward,19,31,5
+name,position,number,age,goals
+Álex Calatrava,Forward,36,23,0
+name,position,number,age,goals
+Abdellah Raihani,Forward,39,20,0
